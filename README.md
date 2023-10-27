@@ -4,8 +4,8 @@
   🔍🔍 -- Estou em buscas de novos projetos e pessoas que possam somar conhecimento <br>
   
   <div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasJansey&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasJansey&layout=compact&langs_count=16&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasJansey&show_icons=true&hide=contribs,prs&hide_border=true&cache_seconds=86400&theme=neon" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasJansey&layout=compact&langs_count=16&hide_border=true&theme=neon" />
   </div>
   
 <div> 
