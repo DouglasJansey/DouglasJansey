@@ -52,5 +52,4 @@
 ![OpenJDK](https://img.shields.io/badge/-OpenJDK-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-![snake gif](https://github.com/DouglasJansey/DouglasJansey/blob/output/github-contribution-grid-snake.svg)
 
